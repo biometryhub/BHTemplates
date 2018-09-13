@@ -3,10 +3,11 @@
 report-number: "SS001"
 title: "Informative title for report"
 subtitle: "Report for UA000001"
-author: "Sam Rogers"
+author: "Your Name"
 job-title: 
 address: 
-email: "s.rogers@adelaide.edu.au"
+email: "your.name@email.com"
+
 
 
 #Latex options
