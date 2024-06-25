@@ -1,2 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+Readme.md
+todo.md
+^.*\.html
+libs/*

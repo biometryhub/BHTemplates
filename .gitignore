@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-BiometryHubTemplate.Rproj
+libs
+skeleton.html
