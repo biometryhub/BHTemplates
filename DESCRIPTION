@@ -1,6 +1,6 @@
 Type: Package
-Package: AAGITemplates
-Title: Add AAGI Templates to `New Rmarkdown` Window
+Package: BHTemplates
+Title: Add Biometry Hub Templates to `New Rmarkdown` Window
 Version: 0.6.0
 Authors@R: c(
     person("Sam", "Rogers", email = "sam.rogers@adelaide.edu.au", role = "cre"),
@@ -9,7 +9,7 @@ Authors@R: c(
     )
 Description: Clicking the RStudio New Rmarkdown button shows a window
     where various Rmarkdown templates can be selected. This package adds
-    AAGI and Biometry Hub reporting templates in this window as an
+    Biometry Hub specific reporting templates in this window as an
     easy way to add required template files such as logos, styling and
     initialisation scripts when creating a new report.
 License: MIT + file LICENSE
@@ -18,6 +18,8 @@ Imports:
     knitr,
     rmarkdown,
     xaringan
+Suggests:
+    formatR
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.1
